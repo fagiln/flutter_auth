@@ -35,6 +35,7 @@ dependencies:
     sdk: flutter
   geocoding: ^2.0.5
   geolocator: ^9.0.2
+  http: ^0.13.5
   map_launcher: ^2.4.0
   maps_launcher: ^2.0.1
 
